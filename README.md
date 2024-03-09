@@ -8,7 +8,7 @@ sudo apt install tor torsocks torbrowser-launcher obfs4proxy -y
 
 start torbrowser-launcher and install browser\
 configure time/timezone at machine\
-start tor browser -> configure connection -> request a bridge or write this bot <a href="https://t.me/GetBridgesBot"> @GetBridgesBot</a> to get BRIDGES\
+start tor browser -> configure connection -> request a bridge or write this bot <a href="https://t.me/GetBridgesBot"> @GetBridgesBot</a> to get BRIDGES
 
 start tor
 ```bash
